@@ -5,8 +5,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GanderwaD&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="140" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=GanderwaD&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=GanderwaD&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
-</div>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=GanderwaD&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
+</div> -->
 
 ###
 
@@ -47,10 +47,10 @@
 ###
 
 <div align="left">
-  <a href="discordapp.com/users/441287444915290112" target="_blank">
+  <!-- <a href="discordapp.com/users/441287444915290112" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/hzganderwadaeva" target="_blank">
+  </a> -->
+  <a href="https://www.instagram.com/ganderwadaeva" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=VpCqJTCPxDmGbPWqcjRPLBqghkvqjVfDFfjbzPSHXMXZhmqPkMrhpMpvFRRJwprrDwkMtBQ" target="_blank">
