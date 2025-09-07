@@ -47,9 +47,9 @@
 ###
 
 <div align="left">
-  <!-- <a href="discordapp.com/users/441287444915290112" target="_blank">
+  <a href="discordapp.com/users/441287444915290112" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
-  </a> -->
+  </a> 
   <a href="https://www.instagram.com/ganderwadaeva" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
   </a>
